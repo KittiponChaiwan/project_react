@@ -64,7 +64,7 @@ export default function Home() {
               fontFamily: "Noto Sans Thai",
             }}
           >
-            ออกจากระบบ
+            ออกจากระบบได้เลย
           </Typography></Link>
         </Box>
 
